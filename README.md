@@ -4,11 +4,13 @@ Public version of Infi's "Flow" cheat.
 
 As it is public and the actual Flow is private, the hacks/cheats are limited to the following:
 
-1.**Aimbot (x to toggle)**
+1. **Aimbot (x to toggle)**
 
-2.**Simple wallhacks (c to toggle)**
+2. **Simple wallhacks (c to toggle)**
 
-3.**Infinite ammo (v to toggle)**
+3. **Infinite ammo (v to toggle)**
+
+4. **Airjump (; to toggle)**
 
 Note that you have to enable infinite ammo before joining a game or switch your weapon in game to use it.
 
